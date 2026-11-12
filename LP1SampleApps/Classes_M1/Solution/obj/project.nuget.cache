@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rGRT3HanSvU=",
+  "success": true,
+  "projectFilePath": "D:\\cours\\C# et .NET\\Tp & Td\\POOMbs\\LP1SampleApps\\Classes_M1\\Solution\\Classes_M1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bachi\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.22\\microsoft.netcore.app.ref.9.0.22.nupkg.sha512",
+    "C:\\Users\\bachi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.22\\microsoft.windowsdesktop.app.ref.9.0.22.nupkg.sha512",
+    "C:\\Users\\bachi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.22\\microsoft.aspnetcore.app.ref.9.0.22.nupkg.sha512",
+    "C:\\Users\\bachi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.22\\microsoft.netcore.app.host.win-x64.9.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

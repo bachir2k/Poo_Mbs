@@ -1,0 +1,15 @@
+D:\cours\C# et .NET\Tp & Td\POOMbs\LP1SampleApps\Classes_M2\Starter\bin\Debug\net9.0\Classes_M2.exe
+D:\cours\C# et .NET\Tp & Td\POOMbs\LP1SampleApps\Classes_M2\Starter\bin\Debug\net9.0\Classes_M2.deps.json
+D:\cours\C# et .NET\Tp & Td\POOMbs\LP1SampleApps\Classes_M2\Starter\bin\Debug\net9.0\Classes_M2.runtimeconfig.json
+D:\cours\C# et .NET\Tp & Td\POOMbs\LP1SampleApps\Classes_M2\Starter\bin\Debug\net9.0\Classes_M2.dll
+D:\cours\C# et .NET\Tp & Td\POOMbs\LP1SampleApps\Classes_M2\Starter\bin\Debug\net9.0\Classes_M2.pdb
+D:\cours\C# et .NET\Tp & Td\POOMbs\LP1SampleApps\Classes_M2\Starter\obj\Debug\net9.0\Classes_M2.GeneratedMSBuildEditorConfig.editorconfig
+D:\cours\C# et .NET\Tp & Td\POOMbs\LP1SampleApps\Classes_M2\Starter\obj\Debug\net9.0\Classes_M2.AssemblyInfoInputs.cache
+D:\cours\C# et .NET\Tp & Td\POOMbs\LP1SampleApps\Classes_M2\Starter\obj\Debug\net9.0\Classes_M2.AssemblyInfo.cs
+D:\cours\C# et .NET\Tp & Td\POOMbs\LP1SampleApps\Classes_M2\Starter\obj\Debug\net9.0\Classes_M2.csproj.CoreCompileInputs.cache
+D:\cours\C# et .NET\Tp & Td\POOMbs\LP1SampleApps\Classes_M2\Starter\obj\Debug\net9.0\Classes_M2.sourcelink.json
+D:\cours\C# et .NET\Tp & Td\POOMbs\LP1SampleApps\Classes_M2\Starter\obj\Debug\net9.0\Classes_M2.dll
+D:\cours\C# et .NET\Tp & Td\POOMbs\LP1SampleApps\Classes_M2\Starter\obj\Debug\net9.0\refint\Classes_M2.dll
+D:\cours\C# et .NET\Tp & Td\POOMbs\LP1SampleApps\Classes_M2\Starter\obj\Debug\net9.0\Classes_M2.pdb
+D:\cours\C# et .NET\Tp & Td\POOMbs\LP1SampleApps\Classes_M2\Starter\obj\Debug\net9.0\Classes_M2.genruntimeconfig.cache
+D:\cours\C# et .NET\Tp & Td\POOMbs\LP1SampleApps\Classes_M2\Starter\obj\Debug\net9.0\ref\Classes_M2.dll
