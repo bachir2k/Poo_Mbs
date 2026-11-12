@@ -1,0 +1,15 @@
+D:\cours\C# et .NET\Tp & Td\POOMbs\BankCustomer\bin\Debug\net10.0\BankCustomer.exe
+D:\cours\C# et .NET\Tp & Td\POOMbs\BankCustomer\bin\Debug\net10.0\BankCustomer.deps.json
+D:\cours\C# et .NET\Tp & Td\POOMbs\BankCustomer\bin\Debug\net10.0\BankCustomer.runtimeconfig.json
+D:\cours\C# et .NET\Tp & Td\POOMbs\BankCustomer\bin\Debug\net10.0\BankCustomer.dll
+D:\cours\C# et .NET\Tp & Td\POOMbs\BankCustomer\bin\Debug\net10.0\BankCustomer.pdb
+D:\cours\C# et .NET\Tp & Td\POOMbs\BankCustomer\obj\Debug\net10.0\BankCustomer.GeneratedMSBuildEditorConfig.editorconfig
+D:\cours\C# et .NET\Tp & Td\POOMbs\BankCustomer\obj\Debug\net10.0\BankCustomer.AssemblyInfoInputs.cache
+D:\cours\C# et .NET\Tp & Td\POOMbs\BankCustomer\obj\Debug\net10.0\BankCustomer.AssemblyInfo.cs
+D:\cours\C# et .NET\Tp & Td\POOMbs\BankCustomer\obj\Debug\net10.0\BankCustomer.csproj.CoreCompileInputs.cache
+D:\cours\C# et .NET\Tp & Td\POOMbs\BankCustomer\obj\Debug\net10.0\BankCustomer.sourcelink.json
+D:\cours\C# et .NET\Tp & Td\POOMbs\BankCustomer\obj\Debug\net10.0\BankCustomer.dll
+D:\cours\C# et .NET\Tp & Td\POOMbs\BankCustomer\obj\Debug\net10.0\refint\BankCustomer.dll
+D:\cours\C# et .NET\Tp & Td\POOMbs\BankCustomer\obj\Debug\net10.0\BankCustomer.pdb
+D:\cours\C# et .NET\Tp & Td\POOMbs\BankCustomer\obj\Debug\net10.0\BankCustomer.genruntimeconfig.cache
+D:\cours\C# et .NET\Tp & Td\POOMbs\BankCustomer\obj\Debug\net10.0\ref\BankCustomer.dll
